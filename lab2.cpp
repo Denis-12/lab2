@@ -30,5 +30,6 @@ int main(){
 		if(s>120 && s<=240) v=v+v*0.08, cout<<"summa s % ="<<v;
 		if(s>240 && s<=360) v=v+v*0.15, cout<<"summa s % ="<<v;
 	}
+	system("pause");
 }	
 	
